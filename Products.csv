@@ -1,0 +1,4 @@
+ProductID, SupplierID, Name, Price, Stock, Description
+"1","2","Red Cap","14.99","6","A red baseball cap with an adjustable head size"
+"2","1","Blue Button Down Formal Shirt L","24.99","8","A blue button down shirt in size Large, perfect for formal wear"
+"3","3","Classic Cowboy Boots","39.99","4","Cowboy boots in a classic style that will remind you of Texas"

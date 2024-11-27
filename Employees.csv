@@ -1,0 +1,4 @@
+EmployeeID, FName, LName, Address, Phone, Email, Position, Hourly_Pay
+"1","John","Smith","123 John Lane","(123) 456-7890","john.smith@website.com","Cashier","10"
+"2","Jane","Doe","456 Jane Lane","(234) 567-8901","jane.doe@website.com","Cashier","10"
+"3","Alex","Manage","789 Boss Lane","(345) 678-9012","alex.manage@website.com","Manager","12"
